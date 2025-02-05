@@ -56,6 +56,31 @@ text-decoration: none;
     padding: 1em 0;
 }
 
+.food-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    word-wrap: break-word;
+}
+
+img {
+    max-width: 100%;
+}
+
+.food-gallery img {
+    height: auto;
+    width: auto;
+}
+
+.food-gallery-box {
+    height: 100px;
+}
+
+.info {
+    max-width: 150px;
+}
+
 /* .hero, .footer {
     background-color: #1F2937;
 }
