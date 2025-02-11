@@ -1,7 +1,4 @@
 # food
-Pear Logo by Bence Balla-Schottner
-https://unsplash.com/@ballaschottner
-
 Cake by Elisabeth Zink
 https://unsplash.com/@wunderlichtfotografies
 
